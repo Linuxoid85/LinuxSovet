@@ -12,4 +12,4 @@
 
 
 ## Полезные статьи:
-(stats/RAM/ram.md)[Оперативная память и подкачка]
+(https://github.com/Linuxoid85/LinuxSovet/blob/main/stats/RAM/ram.md)[Оперативная память и подкачка]
