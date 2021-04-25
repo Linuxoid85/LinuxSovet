@@ -1,7 +1,7 @@
 # LinuxSovet
 
 ## Разделы
-[Новости](Group/news.md) | [Статьи](stats/stats.md)
+[Новости сообщества](Group/news.md) | [Статьи](stats/stats.md)
 
 Доброго времени суток! Ты попал в скромное сообщество GNU/Linux. Здесь ты узнаешь многое об ОС GNU/Linux.
 
