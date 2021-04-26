@@ -7,6 +7,7 @@
 ## Настройка локализации
 Для начала нужно настроить локализацию системы и шрифт, дабы кириллица отображалась корректно.
 Ввести в консоли:
+```
 cat > /etc/sysconfig/console << "EOF"
 # Begin /etc/sysconfig/console
 
@@ -16,6 +17,7 @@ FONT="cyr-sun16"
 
 # End /etc/sysconfig/console
 EOF
+```
 
 ### Объяснение переменных
 * `UNICODE="1"` - при значении `1`, `yes` или `true` консоль переводится в режим `UTF-8`. Для русского языка в самый раз.
@@ -71,6 +73,6 @@ export LANG="ru_RU.UTF-8"
 
 ## Смотрите так же:
 * файлы `/etc/sysconfig/console`, `/etc/sysconfig/keyboard`
-* man locale
-* man localedef
-* man setfont
+* `man locale`
+* `man localedef`
+* `man setfont`
