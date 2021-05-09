@@ -7,3 +7,4 @@
 2. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
 3. [Строение GNU/Linux. Часть 1](LFS/LinuxStr.md)
 4. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
+5. [Из блога. Немного об оконном менеджере Fluxbox на LFS](LFS/blog/fluxbox.md)
