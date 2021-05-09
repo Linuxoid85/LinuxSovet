@@ -64,7 +64,7 @@ cp /usr/share/fluxbox/keys ~/.fluxbox/keys
 cp /usr/share/fluxbox/menu ~/.fluxbox/menu
 ```
 
-Либо же, если вы не хотите комировать готовое меню, а сгенерировать его автоматически, выполните:
+Либо же, если вы не хотите копировать готовое меню, а сгенерировать его автоматически, выполните:
 ```
 cd ~/.fluxbox
 fluxbox-generate_menu
