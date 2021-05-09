@@ -72,7 +72,7 @@ fluxbox-generate_menu
 
 Fluxbox установлен и настроен! Выполните `startx` в консоли, чтобы увидеть результат.
 
-![Fluxbox первый старт](fluxbox1.png)
+![Fluxbox первый старт](fluxbox.png)
 
 ## Сочетания клавиш
 Список дефолтных сочетаний клавиш в Fluxbox 1.3.7:
