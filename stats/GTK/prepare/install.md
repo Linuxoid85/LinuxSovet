@@ -12,3 +12,9 @@ sudo dnf install gtk4-devel
 ![GTK Demo application](pic/gtkdemo.png)
 
 После установки приступим к написанию кода.
+
+***
+[Назад - введение](https://linuxoid85.github.io/LinuxSovet/stats/GTK/)
+--*--
+
+[Далее - написание первого приложения](https://linuxoid85.github.io/LinuxSovet/stats/GTK/prog/gtk1.html)
