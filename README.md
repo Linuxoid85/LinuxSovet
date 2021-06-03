@@ -30,3 +30,6 @@
 В декабре 2020 нам исполнился год!
 
 ![Аватарка группы](ava.jpg "Логотип сообщества")
+
+***
+(C) 2019-2021 [Linuxoid85](https://www.vk.com/linuxoid85). Сайт сообщества [LinuxSovet](https://www.vk.com/linuxsovet)
