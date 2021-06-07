@@ -241,6 +241,16 @@ chmod +x elf.py
 
 ![Lief](pic/lief.png)
 
+## Смотрите также:
+```bash
+man readelf
+man objdump
+man mmap
+man hexdump
+man file
+man gcc
+```
+
 ***
 
 Удачи!
