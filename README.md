@@ -41,8 +41,9 @@
 
 ## Программное обеспечение
 Помимо написания статей и прочего материала, мы ещё и производим некоторый софт. На данный момент, написаны:
+
 | Название | Версия | ЯП | Ссылка для скачивания |
-|:---------|:------:|:---|:----------------------|
+|:---------|:-------|:---|:----------------------|
 | Helper   | 0.06.1.2020 | Bash | [deb-пакет](https://github.com/Linuxoid85/helper/releases/download/0.06.2.2020/Helper.deb), [tar архив](https://github.com/Linuxoid85/helper/releases/download/0.06.2.2020/Helper.tar) |
 | Calmira GNU/Linux | 2021.2.2 | some langs | [Base](https://github.com/Linuxoid85/CalmiraLinux/releases/download/2021.2.2/Calmira_2021.2.2_build1_base.sqsh), [With Xorg support](https://github.com/Linuxoid85/CalmiraLinux/releases/download/2021.2.2/Calmira_2021.2.2_build1_with_xorg.sqsh) |
 
