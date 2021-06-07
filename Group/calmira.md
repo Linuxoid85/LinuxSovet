@@ -31,7 +31,7 @@ sudo unsquashfs /путь/до/образа/calmira_$VERSION_$BUILD.sqsh
 * `$VERSION` - версия дистрибутива
 * `$BUILD` - версия билда дистрибутива
 
-Например, `calmira_2021.2_build2.sqsh`.
+> Например, `calmira_2021.2_build2.sqsh`.
 
 После чего установите загрузчик GRUB и приступите к настройке дистрибутива
 
