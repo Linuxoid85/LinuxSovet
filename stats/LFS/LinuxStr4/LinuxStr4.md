@@ -239,7 +239,7 @@ chmod +x elf.py
 
 Вывод такой:
 
-![Lief](pic/lief.jpg)
+![Lief](pic/lief.png)
 
 ***
 
