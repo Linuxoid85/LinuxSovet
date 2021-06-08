@@ -254,5 +254,6 @@ man gcc
 ```
 
 ***
+[Назад - часть 3. Права доступа](https://linuxoid85.github.io/LinuxSovet/stats/LFS/LinuxStr3/LinuxStr3.html)
 
 Удачи!

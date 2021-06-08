@@ -307,4 +307,9 @@ ls -l $(which chmod)
 
 Так вы вернули бит исполнения программе `chmod`.
 
+***
+[Назад - часть 2. Принцип "всё есть файл"](https://linuxoid85.github.io/LinuxSovet/stats/LFS/LinuxStr2/LinuxStr2.html)
+
+[Далее - часть 4. Строение ELF файла](https://linuxoid85.github.io/LinuxSovet/stats/LFS/LinuxStr4/LinuxStr4.html)
+
 Удачи!

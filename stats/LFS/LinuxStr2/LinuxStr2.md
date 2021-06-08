@@ -101,4 +101,9 @@ lsof -u liveuser
 * `-p` - вывести все файлы, открытые процессом с указанным при вызове команды PID
 * И другие ключи. Перечислять их всех я не вижу смысла. Зайдите [сюда](https://habr.com/ru/company/ruvds/blog/337934/), чтобы узнать больше. И, конечно же, `man lsof`.
 
+***
+[Назад - часть 1. Общие сведенья](https://linuxoid85.github.io/LinuxSovet/stats/LFS/LinuxStr.html)
 
+[Далее - часть 3. Права доступа](https://linuxoid85.github.io/LinuxSovet/stats/LFS/LinuxStr3/LinuxStr3.html)
+
+Удачи!
