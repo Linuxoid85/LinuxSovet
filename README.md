@@ -71,3 +71,5 @@
 
 ***
 (C) 2019-2021 [Linuxoid85](https://www.vk.com/linuxoid85). Сайт сообщества [LinuxSovet](https://www.vk.com/linuxsovet)
+
+[Этот сайт](https://linuxoid85.github.io/LinuxSovet/) был создан 25 апреля 2021 года на базе Github Pages.
