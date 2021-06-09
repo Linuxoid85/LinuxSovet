@@ -16,7 +16,7 @@
 
 ## Полезные статьи:
 * [Программирование с использованием GTK4 (перевод официальной статьи)](stats/GTK/README.md)
-* Строение GNU/Linux:
+* [Строение GNU/Linux:](stats/LFS/LinuxStr.prewiew.md)
 	* [Часть 1 - общие понятия](stats/LFS/LinuxStr.md)
 	* [Часть 2 - принцип "всё есть файл"](stats/LFS/LinuxStr2/LinuxStr2.md)
 	* [Часть 3 - права доступа к файлам](stats/LFS/LinuxStr3/LinuxStr3.md)
