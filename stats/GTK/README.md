@@ -102,7 +102,6 @@ Mate - это форк GNOME 2. Дело в том, что первые верс
 Mate же - почти тот же самый GNOME 2. В последних версиях был выполнен переход на GTK3.
 
 ![MATE](pic/mate.png)
-*Изображение было взято с официального сайта [MATE](https://mate-desktop.org/gallery/1.22/english/)*
 
 ### Xfce
 
