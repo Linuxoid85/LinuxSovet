@@ -4,7 +4,7 @@
 
 ## Новые:
 
-1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья)(LFS/keyboard-lfs.md)
+1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
 2.  [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
 3. [Введение в GTK4](GTK/README.md)
 
