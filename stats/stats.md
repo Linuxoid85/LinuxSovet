@@ -4,15 +4,17 @@
 
 ## Новые:
 
-1. [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
-2. [Введение в GTK4](GTK/README.md)
+1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья)(LFS/keyboard-lfs.md)
+2.  [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
+3. [Введение в GTK4](GTK/README.md)
 
 ## Все статьи:
 
 1. [О подкачке и оперативной памяти в Linux](RAM/ram.md)
-2. [Введение в GTK4](GTK/README.md)
-3. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
-4. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
+2. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья)(LFS/keyboard-lfs.md)
+3. [Введение в GTK4](GTK/README.md)
+4. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
+5. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
 	* [Строение GNU/Linux. Часть 1](LFS/LinuxStr.md)
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
