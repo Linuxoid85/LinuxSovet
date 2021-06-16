@@ -5,7 +5,7 @@
 ## Новые:
 
 1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
-2.  [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
+2. [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
 3. [Введение в GTK4](GTK/README.md)
 
 ## Все статьи:
@@ -21,3 +21,18 @@
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
 8. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
 9. [Из блога. Немного об оконном менеджере Fluxbox на LFS](LFS/blog/fluxbox.md)
+
+## Статьи о дистрибутиве LFS:
+
+1. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
+2. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья (продолжение предыдущей статьи)](LFS/keyboard-lfs.md)
+3. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
+4. [Из блога. Немного об оконном менеджере Fluxbox на LFS](LFS/blog/fluxbox.md)
+
+## Строение GNU/Linux
+
+1. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
+	* [Строение GNU/Linux. Часть 1](LFS/LinuxStr.md)
+	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
+	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
+	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
