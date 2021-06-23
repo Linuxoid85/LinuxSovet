@@ -307,6 +307,12 @@ ls -l $(which chmod)
 
 Так вы вернули бит исполнения программе `chmod`.
 
+## Смотрите также:
+* `man chmod`
+* `man chown`
+* `man ls`
+* `man ldd`
+
 ***
 [Назад - часть 2. Принцип "всё есть файл"](https://linuxoid85.github.io/LinuxSovet/stats/LFS/LinuxStr2/LinuxStr2.html)
 
