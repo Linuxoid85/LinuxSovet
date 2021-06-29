@@ -13,14 +13,15 @@
 1. [О подкачке и оперативной памяти в Linux](RAM/ram.md)
 2. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
 3. [Введение в GTK4](GTK/README.md)
-4. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
-5. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
+4. [О GNOME 40](GNOME/gnome.md)
+5. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
+6. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
 	* [Строение GNU/Linux. Часть 1](LFS/LinuxStr.md)
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
-8. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
-9. [Из блога. Немного об оконном менеджере Fluxbox на LFS](LFS/blog/fluxbox.md)
+7. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
+8. [Из блога. Немного об оконном менеджере Fluxbox на LFS](LFS/blog/fluxbox.md)
 
 ## Статьи о дистрибутиве LFS:
 
@@ -36,3 +37,6 @@
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
+	
+## Блог
+1. [О моём уходе из состава админов LinuxSovet](blog/stat1.md)
