@@ -84,7 +84,7 @@ example_app_class_init (ExampleAppClass *class)
 ...
 ```
 
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application4/exampleapp.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application4/exampleapp.c).
 
 Пункт меню настроек пока ничего не делает, но "Выход" полностью функционален. Обратите внимание на то, что его так же можно активировать сочетанием *Ctrl+Q*. Ярлык был добавлен с помощью `gtk_application_set_accels_for_action()`.
 
@@ -142,7 +142,7 @@ example_app_window_init (ExampleAppWindow *win)
 ...
 ```
 
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application5/exampleappwin.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application5/exampleappwin.c).
 
 Код для подключения настройки шрифта немного сложнее, поскольку нет простого свойства объекта, которому он соответствует, поэтому мы не собираемся здесь вдаваться в подробности.
 
@@ -554,9 +554,9 @@ example_app_window_init (ExampleAppWindow *win)
 ...
 ```
 
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application8/exampleappwin.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application8/exampleappwin.c).
 
-Тепермь программа выглядит так:
+Теперь программа выглядит так:
 
 ![Программа с сайдбаром](pic/window4.png)
 
@@ -620,7 +620,7 @@ example_app_window_init (ExampleAppWindow *win)
 ...
 ```
 
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application9/exampleappwin.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application9/exampleappwin.c).
 
 Нам так же нужна функция, которая подсчитывает строки текущей активности вкладки и обновляет метку `lines`.
 
@@ -634,4 +634,5 @@ example_app_window_init (ExampleAppWindow *win)
 
 ***
 [Назад - создание приложений. Часть 1](gtk6.md)
---**-- [Далее - примеры исходников, используемых в инструкции](programs.md)
+
+[Далее - примеры исходников, используемых в инструкции](programs.md)

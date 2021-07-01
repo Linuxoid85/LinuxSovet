@@ -149,7 +149,7 @@ Type=Application
 Name=Example
 Icon=exampleapp
 StartupNotify=true
-Exec=`bindir@/exampleapp
+Exec=bindir@/exampleapp
 ```
 
 > **Примечание**. Обратите внимание на то, что `bindir@` нужно заменить на полный путь к скомпилированному бинарнику, ибо без этого файл рабочего стола использовать невозможно.
@@ -208,7 +208,7 @@ example_app_window_class_init (ExampleAppWindowClass *class)
 
  ...
 ```
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application2/exampleappwin.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application2/exampleappwin.c).
 
 Вы могли заметить, что мы использовали вариант `_from_resource()` функции, устанавливающей шаблон. Теперь нужно использовать [функциональность ресурсов GLib](https://developer.gnome.org/gio/stable/GResource.html), чтобы включить файл ui в бинарник. Обычно это делается путём перечисления всех ресурсов в файле `.gresource.xml`:
 ```xml
@@ -225,7 +225,7 @@ example_app_window_class_init (ExampleAppWindowClass *class)
 glib-compile-resources exampleapp.gresource.xml --target=resources.c --generate-source
 ```
 
-> Модуль системы сборки `meson` представляет для этой задачи метод `gnome.compile_resources()`. Подробнее о нём читать [здесь](https://mesonbuild.com/Gnome-module.html#gnomecompile_resources)
+> Модуль системы сборки `meson` представляет для этой задачи метод `gnome.compile_resources()`. Подробнее о нём читать [здесь](https://mesonbuild.com/Gnome-module.html#gnomecompile_resources).
 
 Наше приложение теперь выглядит так:
 
@@ -259,7 +259,7 @@ example_app_window_class_init (ExampleAppWindowClass *class)
 ...
 ```
 
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application3/exampleappwin.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application3/exampleappwin.c).
 
 Теперь мы повторно обращаемся к функции `example_app_window_open()`, которая вызывается для каждого аргумента командной строки, и создаем `GtkTextView`, который затем добавляем как страницу в стек:
 
@@ -301,7 +301,7 @@ example_app_window_open (ExampleAppWindow *win,
 ...
 ```
 
-Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application3/exampleappwin.c)
+Полный исходник доступен [здесь](https://gitlab.gnome.org/GNOME/gtk/blob/master/examples/application3/exampleappwin.c).
 
 Наконец, мы добавляем `GtkStackSwitcher` в область заголовка в файле пользовательского интерфейса и приказываем ему отображать информацию о нашем стеке.
 
@@ -313,5 +313,5 @@ example_app_window_open (ExampleAppWindow *win,
 
 ***
 [Назад - создание пользовательских интерфейсов](gtk5.md)
---**--
+
 [Далее - создание приложений - часть 2. Меню](gtk7.md)

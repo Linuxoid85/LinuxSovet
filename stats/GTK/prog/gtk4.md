@@ -206,5 +206,5 @@ gcc `pkg-config --cflags gtk4` -o example-4 example-4.c `pkg-config --libs gtk4`
 
 ***
 [Назад - упаковка](gtk3.md)
---**--
+
 [Далее - создание пользовательских интерфейсов](gtk5.md)

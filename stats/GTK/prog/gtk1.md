@@ -65,5 +65,5 @@ gcc `pkg-config --cflags gtk4` -o example-0 example-0.c `pkg-config --libs gtk4`
 
 ***
 [Назад - установка GTK4](https://linuxoid85.github.io/LinuxSovet/stats/GTK/prepare/install.html)
---**--
+
 [Далее - написание "Hello, world!"](gtk2.md)

@@ -88,5 +88,5 @@ gcc `pkg-config --cflags gtk4` -o example-2 example-2.c `pkg-config --libs gtk4`
 
 ***
 [Назад - Hello, world!](gtk2.md) 
---**--
+
  [Далее - пользовательский рисунок](gtk4.md)
