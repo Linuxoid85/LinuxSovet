@@ -9,6 +9,7 @@ ncurses - библиотека для управления вводом-выво
 
 ## Содержание
 * [Установка библиотеки](installation.md)
+* [Hello, World!](program/ncurses1.md)
 
 ***
 
