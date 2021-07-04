@@ -57,7 +57,7 @@ gcc first.cpp -o firsh -lncurses
 
 Вывод:
 
-![Hello, World!](pic/firsh.png)
+![Hello, World!](pic/ncurses1.png)
 
 ***
 
