@@ -60,6 +60,8 @@ dpkg -L           $PACKAGE # Установленные файлы из паке
 apt info          $PACKAGE # Основная информация о пакете
 ```
 
+Инструмент apt совмещает функциональность apt-get и apt-cache, а также по умолчанию использует красивый цветной формат вывода, что очень удобно. Для использования в сценариях или для продвинутого использования предпочтительнее использовать apt-get (а иногда он просто необходим). [источник](https://www.debian.org/doc/manuals/debian-faq/ch-pkgtools.html).
+
 Несмотря на свои недостатки, ПМ из Debian GNU/Linux для меня самые лучшие. Может быть потому что я к ним привык, ибо с Debian и его говносборками типа убунты или Devuan я работал на протяжении долгого времени.
 
 ## RHEL
@@ -119,6 +121,19 @@ dnf repolist all   # Вывод списка всех репозиториев
 systemctl disable dnf-makecache.service
 systemctl disable dnf-makecache.timer
 gsettings set org.gnome.software download-updates false
+```
+
+## urpmi
+
+Так же есть пакетный менеджер `urpmi` (User Redhat Package Manager). Используется в Mageia, OpenMandriva и, до, недавнего времени, в отечественной Роса. Он не такой распространённый, поэтому о нём подробно написано здесь не будет.
+
+```bash
+urpmi             $PACKAGE   # Установить пакет
+urpme             $PACKAGE   # Удалить пакет
+urpmi -i          $PACKAGE   # Информация о пакете
+urpmi --changelog $PACKAGE   # Просмотр списка изменений пакета
+urpmi.update -a              # Обновление списка пакетов
+urpmi --update --auto-select # Установить обновления
 ```
 
 ## Arch
