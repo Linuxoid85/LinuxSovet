@@ -125,12 +125,12 @@ if (g_file_get_contents (filename, &amp;text, &amp;length, NULL))
                            NULL, NULL, &error);
     if (error != NULL)
       {
-        fprintf ("Couldn't convert file `s` to UTF-8\n", filename);
+        fprintf ("Couldn't convert file s to UTF-8\n", filename);
         g_error_free (error);
       }
     else
       g_print (utf8_text);
   }
 else
-  fprintf (stderr, "Unable to read file `s`\n", filename);
+  fprintf (stderr, "Unable to read file s\n", filename);
 ```
