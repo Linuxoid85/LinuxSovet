@@ -104,4 +104,33 @@ make_widgets (void)
 
 * Как использовать символы, отличные от ASCII, в программах GTK?
 
+GTK использует Unicode (UTF-8) для всего текста. UTF-8 кодирует каждую кодовую точку Unicode как последовательность от одного до шести байтов и имеет ряд хороших свойств, которые делают его хорошим выбором для работы с текстом Unicode в программах на С:
 
+1. Символы ASCII кодируются знакомыми им кодовыми точками ASCII.
+2. Символы ASCII никогда не появляются как часть других символов.
+3. Нулевой байт не является частью символа, поэтому строкой UTF-8 можно управлять с помощью обычных библиотечных функций C для обработки строк с нулевым завершением.
+
+Дополнительную информацию о Unicode и UTF-8 можно найти в [ЧаВо по UTF-8 и Unicode](https://www.cl.cam.ac.uk/~mgk25/unicode.html). GLib предоставляет функции для преобразовнаия строк между UTF-8 и другими кодировками, см. `g_locale_to_utf8()` и `g_convert()`.
+
+Текст, послупающий из внешних источников (например, файлов или вводимых пользователем данных), должен быть преобразован в UTF-8 перед передачей в GTK. В следующем примере содержимое текстового файлы в кодировке ISO-885901 записывается в `stdout`:
+
+```c
+char *text, *utf8_text;
+gsize length;
+GError *error = NULL;
+
+if (g_file_get_contents (filename, &amp;text, &amp;length, NULL))
+  {
+    utf8_text = g_convert (text, length, "UTF-8", "ISO-8859-1",
+                           NULL, NULL, &error);
+    if (error != NULL)
+      {
+        fprintf ("Couldn't convert file `s` to UTF-8\n", filename);
+        g_error_free (error);
+      }
+    else
+      g_print (utf8_text);
+  }
+else
+  fprintf (stderr, "Unable to read file `s`\n", filename);
+```
