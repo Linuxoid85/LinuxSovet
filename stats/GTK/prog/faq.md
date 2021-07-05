@@ -134,3 +134,7 @@ if (g_file_get_contents (filename, &amp;text, &amp;length, NULL))
 else
   fprintf (stderr, "Unable to read file s\n", filename);
 ```
+
+***
+
+[Назад - баги](bugs.md)
