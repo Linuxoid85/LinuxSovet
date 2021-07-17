@@ -38,12 +38,6 @@ function read_time_estimate($content) {
         return "{$minutes} {$str_minutes}, {$seconds} {$str_seconds}";
     }
 }
-
-<div class = "estimated-time">
-    <?php $post_content = "..."; // содержимое статьи ?>
-    print "Приблизительное время чтения: " . read_time_estimate($post_content);
-</div>
-
 </script>
 
 Рано или поздно у любого человека, пишущего на С++ (да и на другом ЯП) может возникнуть потребность в работе с файлами. Либо писать информацию в них, либо выводить содержимое файла. В данной статье будет рассмотрена работа с библиотекой `fstream`.
@@ -520,3 +514,10 @@ CODE <OPTION> <FILE>
 Опций всего две:
 * `print` - вывести содержимое файла на экран;
 * `write` - записать в файл какое-либо содержимое.
+
+<script>
+<div class = "estimated-time">
+    <?php $post_content = "..."; // содержимое статьи ?>
+    print "Приблизительное время чтения: " . read_time_estimate($post_content);
+</div>
+</script>
