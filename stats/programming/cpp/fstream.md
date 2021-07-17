@@ -1,45 +1,5 @@
 # Пример работы с файлами в C++
 
-<script>
-<?php
-
-// подсчет количество слов в utf строке
-function str_word_count_utf8($str) {
-    $a = preg_split('/\W+/u', $str, -1, PREG_SPLIT_NO_EMPTY);
-    return count($a);
-}
-
-/**
- * Возвращает приблизительное время чтения статьи в строку
- *
- * @param  string $content содержимое статьи
- * @return string          приблизительное время чтения
- */
-function read_time_estimate($content) {
-    // очищаем содержимое от тегов
-    // подсчитываем количество слов
-    $word_count = str_word_count_utf8(strip_tags($content));
-   
-    // 200 - средняя скорость чтения слов в минуту
-    $words_per_minute = 200;
-   
-    // время чтения статьи в минутах
-    $minutes = floor($word_count / $words_per_minute);
-   
-    $seconds = floor($word_count % $words_per_minute / ($words_per_minute / 60));
-
-    $str_minutes = ($minutes == 1) ? "мин." : "мин.";
-    $str_seconds = ($seconds == 1) ? "сек." : "сек.";
-
-    if ($minutes == 0) {
-        return "{$seconds} {$str_seconds}";
-    }
-    else {
-        return "{$minutes} {$str_minutes}, {$seconds} {$str_seconds}";
-    }
-}
-</script>
-
 Рано или поздно у любого человека, пишущего на С++ (да и на другом ЯП) может возникнуть потребность в работе с файлами. Либо писать информацию в них, либо выводить содержимое файла. В данной статье будет рассмотрена работа с библиотекой `fstream`.
 
 Для работы с файлами используются специальные типы данных, называемые *потоками*. Поток `ifstream` служит для работы с файлами в режиме чтения, а `ofstream` в режиме записи. Для работы с файлами в режиме как записи, так и чтения служит поток `fstream`.
@@ -514,10 +474,3 @@ CODE <OPTION> <FILE>
 Опций всего две:
 * `print` - вывести содержимое файла на экран;
 * `write` - записать в файл какое-либо содержимое.
-
-<script>
-<div class = "estimated-time">
-    <?php $post_content = "..."; // содержимое статьи ?>
-    print "Приблизительное время чтения: " . read_time_estimate($post_content);
-</div>
-</script>
