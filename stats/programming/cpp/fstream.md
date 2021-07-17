@@ -50,7 +50,7 @@ EOF
 #include <fstream>
 using namespace std;
 
-// Функция для открытия файла со справкой
+// Функция для открытия файла
 void print_text() {
     string line; /*
 		  * Объявление переменной line строкового типа,
@@ -169,9 +169,9 @@ void write_text() {
 	
 	ofstream file("write.txt");
 	cout << "Введите количество чисел: ";
-	cin >> n;
+	cin >> num;
 	
-	for(i = 0; i < n; i++) {
+	for(i = 0; i < num; i++) {
 		cout << "Введите число: ";
 		cin >> a;
 		
@@ -194,10 +194,12 @@ int main() {
 	switch(run) {
 		case 1:
 			print_text();
+			break;
 		case 2:
 			write_text();
+			break;
 		default:
-			cout << "\e[1;31mОШИБКА: неправильно введена опция!\e[0m"
+			cout << "\e[1;31mОШИБКА: неправильно введена опция!\e[0m";
 			exit(1);
 	}
 	
