@@ -44,4 +44,8 @@
 1. [О моём уходе из состава админов LinuxSovet](blog/stat1.md)
 
 ## Программирование
+### C++
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
+
+### C
+1. [Введение в GTK4](GTK/README.md)
