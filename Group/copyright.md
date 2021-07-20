@@ -41,3 +41,4 @@
       2. Формат статей принадлежит [@linuxoid85](authors.d/Linuxoid85.md);
 * Материал
    1. Все материалы с сайта, со стены группы [LinuxSovet](https://www.vk.com/linuxsovet) (кроме некоторых ранних записей), с [чата](https://t.me/linuxsovet_chat) и [канала](https://t.me/linuxsovet) в Telegram, [сайта группы на Google Sites](https://sites.google.com/view/linuxsovet/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) (не обновлялся в течении многого времени, неактуален и заброшен на данный момент), текущего [сайта группы на GH Pages](https://linuxoid85.github.io/LinuxSovet/) принадлежат [@linuxoid85](authors.d/Linuxoid85.md), **если иное не сказано** в начале/конце статьи (или любого другого материала на предоставленных ресурсах), либо в разделе *"Источник"*.
+   2. Правила из ветки `Rules-develop` принадлежат пользователю g_bog (Георгий Богданов).
