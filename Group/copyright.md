@@ -1,6 +1,8 @@
 # Кому принадлежит сообщество и этот сайт?
 
-Все материалы на сайте принадлежат их автору(ам). На данный момент им является [@linuxoid85](authors.d/Linuxoid85.md) Михаил Краснов:
+Все материалы на сайте и во всех ресурсах, на которых располагается сообщество принадлежат их автору(ам). На данный момент им является [@linuxoid85](authors.d/Linuxoid85.md) Михаил Краснов, если иное не сказано в начале/конце статьи или в блоке *Автор*.
+
+Контакты [@linuxoid85](authors.d/Linuxoid85.md):
 * [www.vk.com/linuxoid85](https://www.vk.com/linuxoid85)
 * [github.com/Linuxoid85](https://github.com/Linuxoid85)
 * [@linuxoid85](https://t.me/linuxoid85)
