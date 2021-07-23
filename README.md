@@ -16,6 +16,7 @@
 
 ## Полезные статьи:
 * [Пример работы с файлами в C++](stats/programming/cpp/fstream.md)
+* [Обзор грядущей Calmira LX4 1.1](stats/blog/calmira_lx4_1.1)
 * [Программирование с использованием GTK4 (перевод официальной статьи)](stats/GTK/README.md)
 * [Настройка клавиатуры в LFS - часть 2](stats/LFS/keyboard-lfs.md)
 * [Строение GNU/Linux:](stats/LFS/LinuxStr.prewiew.md)
