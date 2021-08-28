@@ -4,6 +4,7 @@
 
 ## Новые:
 
+1. [Сборка Calmira на i686](LFS/blog/make386.md)
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
 1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
 2. [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
@@ -41,6 +42,7 @@
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
 	
 ## Блог
+1. [Сборка Calmira на i686](LFS/blog/make386.md)
 1. [О моём уходе из состава админов LinuxSovet](blog/stat1.md)
 2. [Обзор грядущей Calmira LX4 1.1](blog/calmira_lx4_1.1)
 
