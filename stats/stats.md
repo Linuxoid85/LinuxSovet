@@ -47,6 +47,9 @@
 2. [Обзор грядущей Calmira LX4 1.1](blog/calmira_lx4_1.1)
 
 ## Программирование
+### Python
+1. [Получение значений переменных bash в Python](programming/python/environ.md)
+
 ### C++
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
 
