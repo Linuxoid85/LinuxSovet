@@ -16,6 +16,7 @@
 
 
 ## Полезные статьи:
+* [Python. Отдельные статьи](stats/programming/python/README.md)
 * [Получение значений переменных bash в Python](stats/programming/python/environ.md)
 * [Пример работы с файлами в C++](stats/programming/cpp/fstream.md)
 * [Обзор грядущей Calmira LX4 1.1](stats/blog/calmira_lx4_1.1)

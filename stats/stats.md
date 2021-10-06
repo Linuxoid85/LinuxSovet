@@ -4,6 +4,7 @@
 
 ## Новые:
 
+1. [Python. Отдельные заметки](programming/python/README.md)
 1. [Сборка Calmira на i686](LFS/blog/calmira/make386.md)
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
 1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
@@ -48,6 +49,7 @@
 
 ## Программирование
 ### Python
+1. [Python. Отдельные заметки](programming/python/README.md)
 1. [Получение значений переменных bash в Python](programming/python/environ.md)
 
 ### C++
