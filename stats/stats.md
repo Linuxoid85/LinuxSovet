@@ -41,11 +41,6 @@
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
-	
-## Блог
-1. [Сборка Calmira на i686](LFS/blog/calmira/make386.md)
-1. [О моём уходе из состава админов LinuxSovet](blog/stat1.md)
-2. [Обзор грядущей Calmira LX4 1.1](blog/calmira_lx4_1.1)
 
 ## Программирование
 ### Python
