@@ -8,3 +8,6 @@
 
 - [Введение](files/README.md)
 - [Просмотр содержимого текстовых файлов](files/read.md)
+- [Запись в текстовые файлы](files/write.md)
+- [Перенос и копирование файлов](files/cp-mv.md)
+- [Парсинг json](files/parse-json.md)
