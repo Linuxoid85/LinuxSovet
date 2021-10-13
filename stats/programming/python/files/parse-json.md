@@ -27,7 +27,7 @@ import json
 | Python               | JSON     |
 |----------------------|----------|
 | `dict`               | `object` |
-| `list`/`turple`      | `array`  |
+| `list`/`tuple`       | `array`  |
 | `str`                | `string` |
 | `int`/`long`/`float` | `number` |
 | `True`               | `true`   |
