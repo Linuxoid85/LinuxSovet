@@ -27,7 +27,7 @@ import json
 | Python               | JSON     |
 |----------------------|----------|
 | `dict`               | `object` |
-| `list`/`turple`      | `array`  |
+| `list`/`tuple`       | `array`  |
 | `str`                | `string` |
 | `int`/`long`/`float` | `number` |
 | `True`               | `true`   |
@@ -175,7 +175,7 @@ for distro in data["distros"]["linux"]:
 # Простые примеры
 
 1. Преобразование объекта в строку формата JSON:
-	- Использование `json.dump()`:
+- Использование `json.dump()`:
 
 ```python
 #!/usr/bin/python3
@@ -207,7 +207,7 @@ with open("./some.json", "w") as f:
 
 ![Вывод в файл](pic/json0.png)
 
-	- Использование `json.dumps()`.
+- Использование `json.dumps()`.
 
 Для использования этой функции измените конструкцию:
 
@@ -289,4 +289,6 @@ with open("./some.json", "w") as f:
 И вывод таким:
 
 ![Вывод в файл](pic/json1.png)
+
+Подобный формат записи является более предпочтительным.
 
