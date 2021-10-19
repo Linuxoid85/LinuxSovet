@@ -11,3 +11,4 @@
 - [Запись в текстовые файлы](files/write.md)
 - [Перенос и копирование файлов](files/cp-mv.md)
 - [Парсинг json](files/parse-json.md)
+- [Работа с tar-архивами](files/tarfile.md)
