@@ -1,5 +1,7 @@
 # Работа с tar-архивами в Python
 
+![tarfile](https://w7.pngwing.com/pngs/74/594/png-transparent-tar-computer-icons-others-miscellaneous-windows-media-audio-tar.png)
+
 Многим пользователям потребуется распаковывать, запаковывать и читать содержимое tar-архива в скриптах Python. Модуль `tarfile` как раз для этого предназначен.
 
 ## Возможности:
