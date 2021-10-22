@@ -31,6 +31,10 @@
 
 > Не забывай подписываться на наше [сообщество](https://vk.com/linuxsovet) в ВК, а так же [канал](https://t.me/linuxsovet) и [чат](https://t.me/linuxsovet_chat) в Telegram!
 
+## Новости
+
+* Добавлен раздел сос татьями о рабочем окружении [GNOME](stats/GNOME/README.md)! 
+
 Больше новостей [здесь](Group/news.md).
 
 ## Поддержка

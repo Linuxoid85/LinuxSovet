@@ -42,6 +42,11 @@
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
 
+## GNOME
+1. [О GNOME 40](GNOME/gnome.md)
+2. [Инсайды](GNOME/news/insides/README.md)
+3. [Новости](GNOME/news/README.md)
+
 ## Программирование
 ### Python
 1. [Python. Отдельные заметки](programming/python/README.md)
