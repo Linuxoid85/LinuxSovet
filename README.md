@@ -16,6 +16,7 @@
 
 
 ## Полезные статьи:
+* [Расширения GNOME Shell](stats/GNOME/look/1/extensions.md)
 * [Python. Отдельные статьи](stats/programming/python/README.md)
 * [Получение значений переменных bash в Python](stats/programming/python/environ.md)
 * [Пример работы с файлами в C++](stats/programming/cpp/fstream.md)
@@ -27,7 +28,6 @@
 	* [Часть 2 - принцип "всё есть файл"](stats/LFS/LinuxStr2/LinuxStr2.md)
 	* [Часть 3 - права доступа к файлам](stats/LFS/LinuxStr3/LinuxStr3.md)
 	* [Часть 4 - строение ELF файла](stats/LFS/LinuxStr4/LinuxStr4.md)
-* [Оперативная память и подкачка](stats/RAM/ram.md)
 
 > Не забывай подписываться на наше [сообщество](https://vk.com/linuxsovet) в ВК, а так же [канал](https://t.me/linuxsovet) и [чат](https://t.me/linuxsovet_chat) в Telegram!
 

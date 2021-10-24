@@ -4,12 +4,12 @@
 
 ## Новые:
 
+1. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
 1. [Python. Отдельные заметки](programming/python/README.md)
 1. [Сборка Calmira на i686](LFS/blog/calmira/make386.md)
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
 1. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
 2. [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
-3. [Введение в GTK4](GTK/README.md)
 
 ## Все статьи:
 
@@ -17,6 +17,7 @@
 1. [О подкачке и оперативной памяти в Linux](RAM/ram.md)
 2. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
 3. [Введение в GTK4](GTK/README.md)
+1. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
 4. [О GNOME 40](GNOME/gnome.md)
 5. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
 6. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
@@ -44,8 +45,9 @@
 
 ## GNOME
 1. [О GNOME 40](GNOME/gnome.md)
-2. [Инсайды](GNOME/news/insides/README.md)
-3. [Новости](GNOME/news/README.md)
+2. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
+2. [**Инсайды**](GNOME/news/insides/README.md)
+3. [**Новости**](GNOME/news/README.md)
 
 ## Программирование
 ### Python

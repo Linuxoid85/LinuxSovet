@@ -8,6 +8,10 @@
 
 * [О рабочем окружении GNOME 40](gnome.md)
 
+## Внешний вид
+
+* [Расширения GNOME Shell](look/1/extensions.md)
+
 # Новости
 
 * [Раздел новостей](news/README.md)
