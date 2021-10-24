@@ -1,6 +1,6 @@
 # Запись информации в текстовый файлы
 
-[Статьи](../../stats.md) > Программирование > [Python](../README.md) > [Работа с файлами](README.md)
+[Статьи](../../../stats.md) > Программирование > [Python](../README.md) > [Работа с файлами](README.md)
 
 <pre>
 <strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>

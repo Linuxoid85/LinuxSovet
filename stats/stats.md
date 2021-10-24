@@ -37,7 +37,7 @@
 
 ## Строение GNU/Linux
 
-1. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
+1. [Строение GNU/Linux](LFS/LinuxStr.preview.md)
 	* [Строение GNU/Linux. Часть 1](LFS/LinuxStr.md)
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
