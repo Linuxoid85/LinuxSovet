@@ -1,6 +1,6 @@
 # Немного об LFS, моей невнимательности и компиляции ПО.
 
-[Статьи](../../stats.md)
+[Статьи](../../../stats.md)
 
 <pre>
 <strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
