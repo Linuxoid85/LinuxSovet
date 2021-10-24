@@ -20,7 +20,7 @@
 1. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
 4. [О GNOME 40](GNOME/gnome.md)
 5. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
-6. [Строение GNU/Linux](LFS/LinuxStr.prewiew.md)
+6. [Строение GNU/Linux](LFS/LinuxStr.preview.md)
 	* [Строение GNU/Linux. Часть 1](LFS/LinuxStr.md)
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
