@@ -1,5 +1,7 @@
 # Программирование с использованием GTK4
 
+[Статьи](../stats.md)
+
 **Автор:** [GNOME Developers](https://developer.gnome.org/) (Центр разработки GNOME)
 
 **Перевёл на русский язык:** [Linuxoid85](https://www.vk.com/linuxoid85)

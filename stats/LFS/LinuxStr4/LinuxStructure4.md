@@ -1,5 +1,7 @@
 # Строение ELF-файлов
 
+[Статьи](../../stats.md) > [Строение GNU/Linux](../LinuxStr.preview.md)
+
 ![INTRODUCTION](pic/LinuxStr4/intro.png)
 
 ## Теория
