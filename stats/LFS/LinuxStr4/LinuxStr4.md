@@ -2,6 +2,11 @@
 
 [Статьи](../../stats.md) > [Строение GNU/Linux](../LinuxStr.preview.md)
 
+<pre>
+<strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
+<strong>Дата написания:</strong> 29.05.2021 00:00
+</pre>
+
 ![INTRODUCTION](pic/intro.png)
 
 ## Теория
