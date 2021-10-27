@@ -1,0 +1,74 @@
+.container {
+    position: relative;
+    max-width: 998px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .card-columns {
+    -webkit-column-count: 3; /*Выставляем кол-во колонок*/
+    -moz-column-count: 3; /*Выставляем кол-во колонок*/
+    column-count: 3; /*Выставляем кол-во колонок*/
+    -webkit-column-gap: 15px; /*Отступы между колонками*/
+    -moz-column-gap: 15px; /*Отступы между колонками*/
+    column-gap: 15px; /*Отступы между колонками*/
+    orphans: 1; /*минимальное число строк в блочном контейнере*/
+    widows: 1; /*минимальное количество линий на странице*/
+  }
+  
+  .card {
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  
+    word-wrap: break-word;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .card-reveal .card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    bottom: -100%;
+    -webkit-transition: bottom .2s ease-in-out;
+    transition: bottom .2s ease-in-out;
+  }
+  
+  .card-reveal .card-img-top {
+    -webkit-transition: -webkit-transform .5s ease-in-out;
+    transition: -webkit-transform .5s ease-in-out;
+    transition: transform .5s ease-in-out;
+    transition: transform .5s ease-in-out, -webkit-transform .5s ease-in-out;
+  }
+  
+  .card-reveal:hover .card-body {
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .card-reveal:hover .card-img-top {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+  }
+  
+  .card-reveal .card-body .card-title {
+    font-size: .75rem;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #fff;
+  }
+  
+  @media (max-width: 768px) {
+    .card-columns {
+      -webkit-column-count: 2;
+      -moz-column-count: 2;
+      column-count: 2;
+    }
+  }  
