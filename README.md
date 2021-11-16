@@ -29,7 +29,7 @@
 	* [Часть 3 - права доступа к файлам](stats/LFS/LinuxStr3/LinuxStr3.md)
 	* [Часть 4 - строение ELF файла](stats/LFS/LinuxStr4/LinuxStr4.md)
 
-> Не забывай подписываться на наше [сообщество](https://vk.com/linuxsovet) в ВК, а так же [канал](https://t.me/linuxsovet) и [чат](https://t.me/linuxsovet_chat) в Telegram!
+> Не забывай подписываться на наши [канал](https://t.me/linuxsovet) и [чат](https://t.me/linuxsovet_chat) в Telegram, а так же наше [сообщество](https://vk.com/linuxsovet) в ВК!
 
 ## Новости
 
