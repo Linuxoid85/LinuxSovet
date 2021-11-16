@@ -58,7 +58,7 @@
 
 Тут всё просто. Для извлечения данных этим способом нужен пакет `squashfs-tools` с **обязательной** поддержкой метода сжатия `xz`. Например, в Debian `squashfs-tools` собираются с поддержкой этого формата сжатия, а в большинстве rpm-дистрибутивов типа Альта, Fedora и прочих - нет. В таком случае в [Makefile](https://github.com/Othernet-Project/squashfs-tools/blob/master/squashfs-tools/Makefile) раскомментируйте строку:
 
-```makefile title="Makefile (было)"
+```makefile
 ########### Building XZ support #############
 #
 # LZMA2 compression.
@@ -73,7 +73,7 @@
 
 Чтобы получилось так:
 
-```makefile title="Makefile (после изменений)"
+```makefile
 ########### Building XZ support #############
 #
 # LZMA2 compression.
