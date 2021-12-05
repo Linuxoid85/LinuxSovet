@@ -7,7 +7,7 @@
 <strong>Дата написания:</strong> 24.11.2021 21:20
 </pre>
 
-![screen](screen.png)
+![screen](pic/screen.png)
 
 Мало кто знает, но я так же занят разработкой независимого дистрибутива CalmiraLinux. Это source-based дистрибутив, следующий идеологии KISS.
 
