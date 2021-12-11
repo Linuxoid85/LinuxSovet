@@ -15,6 +15,7 @@
 
 ## Новые:
 
+1. [Конвертация форматов офисных документов - автоматизируем процесс](blog/convert.md)
 1. [Опыт использования CalmiraLinux LX4 1.1. Часть 1 - установка.](blog/cpl/expierence/calmira-1.1.md)
 1. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
 1. [Python. Отдельные заметки](programming/python/README.md)
