@@ -33,7 +33,7 @@
 
 ## Новости
 
-* Добавлен раздел со статьями о CalmiraLinux и CPL. ([ссылка](stats/blog/cpl/README.md));
+* Добавлен раздел со статьями о CalmiraLinux и CPL. ([ссылка](stats/blog/cpl/expierence/README.md));
 * Добавлен раздел со статьями о рабочем окружении [GNOME](stats/GNOME/README.md)! 
 
 Больше новостей [здесь](Group/news.md).

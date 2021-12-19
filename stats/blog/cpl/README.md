@@ -9,6 +9,8 @@
 * Опыт использования CalmiraLinux:
 	* [Часть 1 (LX4 1.1)](expierence/calmira-1.1.md)
 	* [Часть 2 (LX4 1.1)](expierence/calmira-1.1-2.md)
+* **Новости:**
+	* [Блог разработки](news/devblog.md)
 
 ## Анонсы
 
