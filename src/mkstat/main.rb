@@ -42,6 +42,12 @@ def main
         File.write($page+'.md', '', mode: 'w')
     end
 
+    if $type == "gallery"
+        $page = config["path"] + "/gallery/" + $page
+    else
+        $page = config["path"] + "/stats/" + $page
+    end
+
     author = config["author"]
     date = "#{$time.day}.#{$time.month}.#{$time.year} #{$time.hour}:#{$time.min}"
 
