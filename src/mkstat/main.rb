@@ -48,13 +48,13 @@ def main
     write "# #{$header}\n", $page
 
     if $type == "article"
-        write "\n[Статьи](/LinuxSovet/stats/stats.md) > []()\n", $page
+        write "\n[Статьи](/LinuxSovet/stats/stats.md)\n", $page
     
     elsif $type == "gallery"
         write "\n[Галерея](/LinuxSovet/gallery/README.md)\n", $page
         write "\n<a href='pic/*.png'><img src='pic/*.png' width='455' height='256'></a>\n", $page
     else
-        write "\n[На главную](/LinuxSovet/README.md\n", $page
+        write "\n[Статьи](/LinuxSovet/stats/stats.md)\n", $page
     end
 
     write "\n<pre>\n<strong>Автор:</strong> #{author}\n", $page
