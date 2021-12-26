@@ -61,6 +61,6 @@ def init():
         write("\n[Статьи]() > []\n", PAGE)
 
     write(f"\n<pre>\n<strong>Автор:</strong> {AUTHOR}\n", PAGE)
-    write(f"<strong>Дата написания:</strong> {time.ctime()}\n<pre>\n\n", PAGE)
+    write(f"<strong>Дата написания:</strong> {time.ctime()}\n</pre>\n\n", PAGE)
 
 init()
