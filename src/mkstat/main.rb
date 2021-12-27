@@ -54,13 +54,13 @@ def main
     write "# #{$header}\n", $page
 
     if $type == "article"
-        write "\n[Статьи](/LinuxSovet/stats/stats.md)\n", $page
+        write "\n#{config['pathbar']['article']}\n", $page
     
     elsif $type == "gallery"
-        write "\n[Галерея](/LinuxSovet/gallery/README.md)\n", $page
-        write "\n<a href='pic/*.png'><img src='pic/*.png' width='455' height='256'></a>\n", $page
+        write "\n#{config['pathbar']['gallery']}\n", $page
+        write "\n#{config['pathbar']['preview_gallery']}\n", $page
     else
-        write "\n[Статьи](/LinuxSovet/stats/stats.md)\n", $page
+        write "\n#{config['pathbar']['article']}\n", $page
     end
 
     write "\n<pre>\n<strong>Автор:</strong> #{author}\n", $page
