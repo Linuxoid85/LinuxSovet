@@ -24,3 +24,7 @@
 ```bash
 sudo curl -Lo /usr/bin/theme.sh 'https://git.io/JM70M' && sudo chmod +x /usr/bin/theme.sh
 ```
+
+## Итог работы скрипта
+
+<p align="center"><a href="pic/2.png"><img src="pic/2.png"></a></p>
