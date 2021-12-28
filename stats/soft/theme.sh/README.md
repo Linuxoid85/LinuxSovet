@@ -1,6 +1,6 @@
 # Переключение цветовых схем в терминале GNOME с помощью theme.sh
 
-[Статьи](/LinuxSovet/stats/stats.md) > [Софт](/LinuxSovet/stats/soft/README.md)
+[Статьи](../../stats.md) > [Софт](../soft/README.md)
 
 <a href="pic/preview.png"><img src="pic/preview.png"></a>
 

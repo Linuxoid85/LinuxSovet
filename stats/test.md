@@ -1,6 +1,6 @@
 # test
 
-[Статьи](/LinuxSovet/stats/stats.md)
+[Статьи](../stats/stats.md)
 
 <pre>
 <strong>Автор:</strong> <a href='/LinuxSovet/Group/authors.d/Linuxoid85.html'>Михаил Краснов</a>
