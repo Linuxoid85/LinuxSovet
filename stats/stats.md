@@ -16,7 +16,7 @@
 
 ## Новые:
 
-1. [theme.sh - программа для изменения цветовых схем терминала](soft/thene.sh/README.md)
+1. [theme.sh - программа для изменения цветовых схем терминала](soft/theme.sh/README.md)
 1. [Конвертация форматов офисных документов - автоматизируем процесс](blog/convert.md)
 1. [Опыт использования CalmiraLinux LX4 1.1. Часть 1 - установка.](blog/cpl/expierence/calmira-1.1.md)
 1. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
@@ -28,7 +28,7 @@
 
 ## Все статьи:
 
-1. [theme.sh - программа для изменения цветовых схем терминала](soft/thene.sh/README.md)
+1. [theme.sh - программа для изменения цветовых схем терминала](soft/theme.sh/README.md)
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
 1. [О подкачке и оперативной памяти в Linux](RAM/ram.md)
 2. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья](LFS/keyboard-lfs.md)
@@ -68,7 +68,7 @@
 ## Софт
 
 1. [Главная](soft/README.md)
-1. [theme.sh - программа для изменения цветовых схем терминала](soft/thene.sh/README.md)
+1. [theme.sh - программа для изменения цветовых схем терминала](soft/theme.sh/README.md)
 
 ## Программирование
 ### Python
