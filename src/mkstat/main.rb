@@ -15,11 +15,10 @@ OptionParser.new do |opt|
   opt.on('-t', '--type TYPE', 'Тип страницы') { |o| options.type = o }
 end.parse!
 
-$conf = "conf.ini"
-$time = Time.new
-$page = options.page
+$conf   = "conf.ini"
+$page   = options.page
 $header = options.header
-$type = options.type
+$type   = options.type
 
 def error(message)
     puts "\033[31m#{message}\033[0m"
@@ -30,11 +29,18 @@ def write(content, file)
     File.write(file, content, mode: 'a')
 end
 
+def get_date
+    time   = Time.new
+    date = "#{time.day}.#{time.month}.#{time.year} #{time.hour}:#{time.min}"
+    
+    return date
+end
+
 def main
     if File.exist?($conf)
         config = ParseConfig.new($conf)
     else
-        error "Файла #{$conf} не существует!"
+        error("Файла #{$conf} не существует!")
         exit 1
     end
 
@@ -49,22 +55,22 @@ def main
     end
 
     author = config["author"]
-    date = "#{$time.day}.#{$time.month}.#{$time.year} #{$time.hour}:#{$time.min}"
+    date = get_date()
 
-    write "# #{$header}\n", $page
+    write("# #{$header}\n", $page)
 
     if $type == "article"
-        write "\n#{config['pathbar']['article']}\n", $page
+        write("\n#{config['pathbar']['article']}\n", $page)
     
     elsif $type == "gallery"
-        write "\n#{config['pathbar']['gallery']}\n", $page
-        write "\n#{config['pathbar']['preview_gallery']}\n", $page
+        write("\n#{config['pathbar']['gallery']}\n", $page)
+        write("\n#{config['pathbar']['preview_gallery']}\n", $page)
     else
-        write "\n#{config['pathbar']['article']}\n", $page
+        write("\n#{config['pathbar']['article']}\n", $page)
     end
 
-    write "\n<pre>\n<strong>Автор:</strong> #{author}\n", $page
-    write "<strong>Дата написания:</strong> #{date}\n</pre>\n\n", $page
+    write("\n<pre>\n<strong>Автор:</strong> #{author}\n", $page)
+    write("<strong>Дата написания:</strong> #{date}\n</pre>\n\n", $page)
 end
 
 main
