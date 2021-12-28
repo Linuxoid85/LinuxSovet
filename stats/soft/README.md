@@ -8,4 +8,12 @@
 
 ### Консольное ПО
 
-- [theme.sh](theme.sh/README.md)
+***
+
+<strong><a href="theme.sh/">theme.sh</a></strong>
+
+<img src="theme.sh/pic/preview.png">
+
+theme.sh - интерактивный скрипт для быстрого изменения цветовых схем терминала. Вообще, он независим от терминала.
+
+***
