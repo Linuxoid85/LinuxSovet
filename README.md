@@ -16,6 +16,7 @@
 
 
 ## Полезные статьи:
+* [Парсинг JSON в BASH](stats/programming/bash/jq.md)
 * [Расширения GNOME Shell](stats/GNOME/look/1/extensions.md)
 * [Python. Отдельные статьи](stats/programming/python/README.md)
 * [Получение значений переменных bash в Python](stats/programming/python/environ.md)
