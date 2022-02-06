@@ -36,6 +36,9 @@
     - 5.1. case
         - 5.1.1. Создание простых одноуровневых меню
     - 5.2. select
+- Смотрите также
+- Дополнительные ссылки на каналы и чаты LinuxSovet
+- Выводы
 
 ## 1. Запуск скриптов
 
@@ -634,6 +637,12 @@ done
 - `help if`
 - `help case`
 - `help select`
+
+## Дополнительные ссылки на каналы и чаты LinuxSovet
+
+- Наш канал в Telegram: [t.me/linuxsovet](https://t.me/linuxsovet)
+- Наш чат в Telegram: [t.me/linuxsovet_chat](https://t.me/linuxsovet_chat)
+- Группа в ВКонтакте: [vk.com/linuxsovet](https://vk.com/linuxsovet)
 
 ## Выводы
 
