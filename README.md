@@ -16,7 +16,8 @@
 
 
 ## Полезные статьи:
-* [Использование BASH для написания скриптов. Часть 1.](programming/bash/README.md)
+* [Ubuntu - зло](stats/ubuntu/README.md)
+* [Использование BASH для написания скриптов. Часть 1.](stats/programming/bash/README.md)
 * [Парсинг JSON в BASH](stats/programming/bash/jq.md)
 * [Расширения GNOME Shell](stats/GNOME/look/1/extensions.md)
 * [Python. Отдельные статьи](stats/programming/python/README.md)
