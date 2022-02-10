@@ -16,7 +16,7 @@
 
 ## Новые:
 
-1. [Ubuntu - зло](ubuntu/README.md)
+1. [Ubuntu - зло](blog/ubuntu/README.md)
 1. [Использование BASH для написания скриптов. Часть 1.](programming/bash/README.md)
 1. [Парсинг JSON в BASH](programming/bash/jq.md)
 1. [Мучения с ноутбуком Samsung NP300E5C](blog/samsung/README.md)
