@@ -328,3 +328,4 @@ dnf <действие> <пакет> <ключ>
 - `man dnf`
 - `man zypper`
 - `man make`
+- Руководство [LFS](https://linuxfromscratch.org/lfs/view/stable), откуда я взял информацию о методах управления ПО, собранного из исходного кода.
