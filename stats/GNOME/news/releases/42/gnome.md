@@ -70,4 +70,4 @@ Text Editor:
 
 Так же Text Editor умеет изменять масштаб текста, чего не умеет Gedit. Мне такое пригодилось всего один раз на одной из демонстраций. Думаю, больше не пригодится, но функция годная.
 
-![SCALLING](pic/scalling-editor.png)
+![SCALLING](pic/editor-scalling.png)
