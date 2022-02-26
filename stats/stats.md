@@ -16,6 +16,7 @@
 
 ## Новые:
 
+1. [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
 1. [Ubuntu - зло](blog/ubuntu/README.md)
 1. [Использование BASH для написания скриптов. Часть 1.](programming/bash/README.md)
 1. [Парсинг JSON в BASH](programming/bash/jq.md)
@@ -45,6 +46,7 @@
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
+	* [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
 7. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
 8. [Из блога. Немного об оконном менеджере Fluxbox на LFS](LFS/blog/fluxbox.md)
 
@@ -62,6 +64,7 @@
 	* [Строение GNU/Linux. Часть 2](LFS/LinuxStr2/LinuxStr2.md)
 	* [Строение GNU/Linux. Часть 3](LFS/LinuxStr3/LinuxStr3.md)
 	* [Строение GNU/Linux. Часть 4](LFS/LinuxStr4/LinuxStr4.md)
+	* [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
 
 ## GNOME
 1. [О GNOME 40](GNOME/gnome.md)

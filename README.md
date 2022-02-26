@@ -31,6 +31,7 @@
 	* [Часть 2 - принцип "всё есть файл"](stats/LFS/LinuxStr2/LinuxStr2.md)
 	* [Часть 3 - права доступа к файлам](stats/LFS/LinuxStr3/LinuxStr3.md)
 	* [Часть 4 - строение ELF файла](stats/LFS/LinuxStr4/LinuxStr4.md)
+	* [Часть 5 - методы управления программным обеспечением](stats/LFS/LinuxStr5/LinuxStr5.md)
 
 > Не забывай подписываться на наши [канал](https://t.me/linuxsovet) и [чат](https://t.me/linuxsovet_chat) в Telegram, а так же наше [сообщество](https://vk.com/linuxsovet) в ВК!
 
