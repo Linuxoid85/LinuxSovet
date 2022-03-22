@@ -1,6 +1,6 @@
 # Выход GNOME 42
 
-[Статьи](/LinuxSovet/stats/stats.md) > [GNOME](/LinuxSovet/stats/GNOME/README.md) > [Новости](/LinuxSovet/stats/GNOME/news/README.md)
+[Статьи](../../../../stats.md) > [GNOME](../../../README.md) > [Новости](../../README.md)
 
 <pre>
 <strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
