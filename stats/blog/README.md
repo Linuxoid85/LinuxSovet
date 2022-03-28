@@ -6,6 +6,7 @@
 
 ## Содержание
 
+* [Основные команды текстового редактора Vim](vim.md)
 * [Будущий релиз Calmira LX4 1.1](calmira_lx4_1.1.md)
 * [CalmiraLinux и CPL](cpl/README.md):
     - [Опыт использования Calmira LX4 1.1. Часть 1](cpl/calmira-1.1.md)

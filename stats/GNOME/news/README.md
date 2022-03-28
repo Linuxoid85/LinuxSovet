@@ -8,7 +8,7 @@
 
 ### Новости
 
-* К сожалению, пока ничего нет.
+* [Выход GNOME 42](news/releases/42/gnome.md)
 
 ### Инсайды
 * [Быстрые настройки](insides/quick-settings.md)

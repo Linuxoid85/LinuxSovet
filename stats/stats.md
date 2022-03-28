@@ -16,6 +16,7 @@
 
 ## Новые:
 
+1. [Выход GNOME 42](GNOME/news/releases/42/gnome.md)
 1. [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
 1. [Ubuntu - зло](blog/ubuntu/README.md)
 1. [Использование BASH для написания скриптов. Часть 1.](programming/bash/README.md)
@@ -33,6 +34,12 @@
 
 ## Все статьи:
 
+1. [Выход GNOME 42](GNOME/news/releases/42/gnome.md)
+1. [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
+1. [Ubuntu - зло](blog/ubuntu/README.md)
+1. [Использование BASH для написания скриптов. Часть 1.](programming/bash/README.md)
+1. [Парсинг JSON в BASH](programming/bash/jq.md)
+1. [Мучения с ноутбуком Samsung NP300E5C](blog/samsung/README.md)
 1. [theme.sh - программа для изменения цветовых схем терминала](soft/theme.sh/README.md)
 1. [Пример работы с файлами в C++](programming/cpp/fstream.md)
 1. [О подкачке и оперативной памяти в Linux](RAM/ram.md)
@@ -71,6 +78,7 @@
 2. [Расширения GNOME Shell](GNOME/look/1/extensions.md)
 2. [**Инсайды**](GNOME/news/insides/README.md)
 3. [**Новости**](GNOME/news/README.md)
+    - [Выход GNOME 42](GNOME/news/releases/42/gnome.md)
 
 ## Софт
 
@@ -91,6 +99,7 @@
 ## Блог
 
 1. [Главная страница](blog/README.md)
+1. [Ubuntu - зло](blog/ubuntu/README.md)
 2. [О дистрибутиве CalmiraLinux и CPL](blog/cpl/README.md)
 	- [Опыт использования версии LX4 1.1. Часть 1](blog/cpl/expierence/calmira-1.1.md)
 	- [Опыт использования версии LX4 1.1. Часть 2](blog/cpl/expierence/calmira-1.1-2.md)
