@@ -16,6 +16,8 @@
 
 
 ## Полезные статьи:
+* [Обновление "Менеджера расширений"](stats/GNOME/news/extensions.md)
+* [Основные команды Vim](stats/blog/vim.md)
 * [Выход GNOME 42](stats/GNOME/news/releases/42/gnome.md)
 * [Ubuntu - зло](stats/blog/ubuntu/README.md)
 * [Использование BASH для написания скриптов. Часть 1.](stats/programming/bash/README.md)

@@ -1,5 +1,7 @@
 # Основные команды текстового редактора Vim
 
+[Статьи](../stats.md) -> [Блог](README.md)
+
 <pre>
 <strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
 <strong>Дата написания:</strong> 28.03.2022 00:00
