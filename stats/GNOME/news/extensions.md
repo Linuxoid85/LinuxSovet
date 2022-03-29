@@ -1,5 +1,10 @@
 # Обновление "Менеджера расширений"
 
+<pre>
+<strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
+<strong>Дата написания:</strong> 29.03.2022 20:04
+</pre>
+
 ![](pic/extension-app.png)
 
 ## Что это такое?

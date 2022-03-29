@@ -1,5 +1,10 @@
 # Основные команды текстового редактора Vim
 
+<pre>
+<strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
+<strong>Дата написания:</strong> 28.03.2022 00:00
+</pre>
+
 ![](pic/vim.png)
 
 ## Прелюдия
