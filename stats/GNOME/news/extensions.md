@@ -1,6 +1,6 @@
 # Обновление "Менеджера расширений"
 
-![](pic/extensions-app.png)
+![](pic/extension-app.png)
 
 ## Что это такое?
 
