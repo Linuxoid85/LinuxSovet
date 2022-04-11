@@ -15,7 +15,7 @@
 
 ## Новые:
 
-1. [Обновление "Менеджера расширений"](GNOME/news/extensions.md)
+1. [Пару слов о "Менеджере расширений"](GNOME/news/extensions.md)
 1. [Основные команды Vim](blog/vim.md)
 1. [Выход GNOME 42](GNOME/news/releases/42/gnome.md)
 1. [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
