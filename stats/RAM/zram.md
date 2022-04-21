@@ -121,7 +121,7 @@ modprobe zram num_devices=4
 Например:
 
 ```bash
-# Инифиализировать '/dev/zram0' с объёмом (размером диска - disksize) 100 Мб
+# Инициализировать '/dev/zram0' с объёмом (размером диска - disksize) 100 Мб
 echo $((100*1024*1024)) > /sys/block/zram0/disksize
 
 # Использование суффиксов mem
