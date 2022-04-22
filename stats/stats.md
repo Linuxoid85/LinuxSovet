@@ -15,6 +15,7 @@
 
 ## Новые:
 
+1. [Пару слов про zRam](RAM/zram.md)
 1. [Пару слов о "Менеджере расширений"](GNOME/news/extensions.md)
 1. [Основные команды Vim](blog/vim.md)
 1. [Выход GNOME 42](GNOME/news/releases/42/gnome.md)
@@ -35,6 +36,7 @@
 
 ## Все статьи:
 
+1. [Пару слов про zRam](RAM/zram.md)
 1. [Выход GNOME 42](GNOME/news/releases/42/gnome.md)
 1. [Строение GNU/Linux. Часть 5.](LFS/LinuxStr5/LinuxStr5.md)
 1. [Ubuntu - зло](blog/ubuntu/README.md)
@@ -60,6 +62,7 @@
 
 ## Статьи о LFS:
 
+1. [Пару слов про zRam](RAM/zram.md)
 1. [Настройка клавиатуры, шрифтов и локализации в LFS](LFS/keyboard.md)
 2. [Настройка клавиатуры в LFS - часть 2. Более подробные сведенья (продолжение предыдущей статьи)](LFS/keyboard-lfs.md)
 3. [Из блога. Часть 1. LFS, иксы и новая статья](LFS/blog/stat1.md)
