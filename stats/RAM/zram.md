@@ -1,5 +1,12 @@
 # Пару слов про zRam
 
+[Статьи](../stats.md)
+
+<pre>
+<strong>Автор:</strong> <a href="/LinuxSovet/Group/authors.d/Linuxoid85.html">Михаил Краснов</a>
+<strong>Дата написания:</strong> 22.04.2022 15:35
+</pre>
+
 ![](zram.png)
 
 ## Введение
